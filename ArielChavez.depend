@@ -1,0 +1,178 @@
+# depslib dependency file v1.0
+1684360897 source:d:\usuario\escritorio\utn\utn pacheto-programacion\ejercicios poo\arielchavez\main.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"clase.musico.h"
+	"clase.generos.h"
+	"REPORTES.h"
+	"ArchivoMusicos.h"
+	"ArchivoGenero.h"
+	"configuracion.h"
+
+1684176223 d:\usuario\escritorio\utn\utn pacheto-programacion\ejercicios poo\arielchavez\fecha.h
+
+1684175202 d:\usuario\escritorio\utn\utn pacheto-programacion\ejercicios poo\arielchavez\clase.musico.h
+
+1684276065 d:\usuario\escritorio\utn\utn pacheto-programacion\ejercicios poo\arielchavez\archivomusicos.h
+
+1683055321 d:\usuario\escritorio\utn\utn pacheto-programacion\ejercicios poo\arielchavez\fechaactual.h
+
+1684362573 d:\usuario\escritorio\utn\utn pacheto-programacion\ejercicios poo\arielchavez\clase.generos.h
+
+1684360024 d:\usuario\escritorio\utn\utn pacheto-programacion\ejercicios poo\arielchavez\archivogenero.h
+
+1683465614 source:d:\usuario\escritorio\preuva.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<fstream>
+
+1684185263 d:\usuario\escritorio\utn\utn pacheto-programacion\ejercicios poo\arielchavez\reportes.h
+
+1684359448 d:\usuario\escritorio\utn\utn pacheto-programacion\ejercicios poo\arielchavez\configuracion.h
+
+1684415732 source:d:\usuario\escritorio\arielchavez\main.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"clase.musico.h"
+	"clase.generos.h"
+	"REPORTES.h"
+	"ArchivoMusicos.h"
+	"ArchivoGenero.h"
+	"configuracion.h"
+
+1684176223 d:\usuario\escritorio\arielchavez\fecha.h
+
+1684415706 d:\usuario\escritorio\arielchavez\clase.musico.h
+
+1684414737 d:\usuario\escritorio\arielchavez\clase.generos.h
+
+1684415732 d:\usuario\escritorio\arielchavez\reportes.h
+
+1684276065 d:\usuario\escritorio\arielchavez\archivomusicos.h
+
+1684363311 d:\usuario\escritorio\arielchavez\archivogenero.h
+
+1684359448 d:\usuario\escritorio\arielchavez\configuracion.h
+
+1687268058 source:d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\arielchavez\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"clase.instrumento.h"
+	"ArchivoInstrumento.h"
+	"clase.paises.h"
+	"ArchivoPaises.h"
+	"clase.generos.h"
+	"ArchivoGenero.h"
+	"clase.musico.h"
+	"ArchivoMusicos.h"
+	"REPORTES.h"
+	"configuracion.h"
+
+1686227752 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\arielchavez\fecha.h
+
+1686918872 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\arielchavez\clase.musico.h
+
+1687270304 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\arielchavez\clase.generos.h
+
+1687306338 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\arielchavez\reportes.h
+
+1686921213 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\arielchavez\archivomusicos.h
+
+1686919076 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\arielchavez\archivogenero.h
+
+1687374114 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\arielchavez\configuracion.h
+
+1687374143 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\arielchavez\clase.instrumento.h
+
+1687374142 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\arielchavez\archivoinstrumento.h
+
+1687373346 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\arielchavez\clase.paises.h
+
+1687373346 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\arielchavez\archivopaises.h
+
+1687440674 source:d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\chavez_ariel\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"clase.instrumento.h"
+	"ArchivoInstrumento.h"
+	"clase.paises.h"
+	"ArchivoPaises.h"
+	"clase.generos.h"
+	"ArchivoGenero.h"
+	"clase.musico.h"
+	"ArchivoMusicos.h"
+	"REPORTES.h"
+	"configuracion.h"
+
+1686227752 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\chavez_ariel\fecha.h
+
+1687374143 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\chavez_ariel\clase.instrumento.h
+
+1687374142 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\chavez_ariel\archivoinstrumento.h
+
+1687373346 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\chavez_ariel\clase.paises.h
+
+1687373346 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\chavez_ariel\archivopaises.h
+
+1687270304 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\chavez_ariel\clase.generos.h
+
+1687444116 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\chavez_ariel\archivogenero.h
+
+1687435491 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\chavez_ariel\clase.musico.h
+
+1686921213 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\chavez_ariel\archivomusicos.h
+
+1687444330 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\chavez_ariel\reportes.h
+
+1687374114 d:\usuario\escritorio\utn\utn pacheto-programacion\laboratorio ii\chavez_ariel\configuracion.h
+
+1688048388 source:d:\usuario\escritorio\chavez_ariel\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	"fecha.h"
+	"clase.instrumento.h"
+	"ArchivoInstrumento.h"
+	"clase.paises.h"
+	"ArchivoPaises.h"
+	"clase.generos.h"
+	"ArchivoGenero.h"
+	"clase.musico.h"
+	"ArchivoMusicos.h"
+	"REPORTES.h"
+	"configuracion.h"
+
+1686227752 d:\usuario\escritorio\chavez_ariel\fecha.h
+
+1687374143 d:\usuario\escritorio\chavez_ariel\clase.instrumento.h
+
+1687374142 d:\usuario\escritorio\chavez_ariel\archivoinstrumento.h
+
+1687373346 d:\usuario\escritorio\chavez_ariel\clase.paises.h
+
+1687373346 d:\usuario\escritorio\chavez_ariel\archivopaises.h
+
+1687270304 d:\usuario\escritorio\chavez_ariel\clase.generos.h
+
+1688047258 d:\usuario\escritorio\chavez_ariel\archivogenero.h
+
+1688047210 d:\usuario\escritorio\chavez_ariel\clase.musico.h
+
+1686921213 d:\usuario\escritorio\chavez_ariel\archivomusicos.h
+
+1688048785 d:\usuario\escritorio\chavez_ariel\reportes.h
+
+1688048289 d:\usuario\escritorio\chavez_ariel\configuracion.h
+
